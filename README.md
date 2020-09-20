@@ -4,5 +4,5 @@ This APP requires Pandas, Streamlit, Plotly, Sklearn installed to work.
 
 To run the program, use the command below:
 ```python
-	streamlit run app.py
+streamlit run app.py
 ```
